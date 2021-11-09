@@ -1,0 +1,10 @@
+.body {
+    background-image: url("../img/logo.jpg");
+}
+
+body {
+    background-image: linear-gradient(to top, #ecedee 0%, #eceeef 75%, #e7e8e9 100%);
+    min-height: 100vh;
+    font: normal 16px sans-serif;
+    padding: 60px 0;
+}
